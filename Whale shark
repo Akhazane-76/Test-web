@@ -7,70 +7,70 @@
 			font-family: Arial, sans-serif;
 			background-color: #e1f3ff;
 		}
-		
+
 		header {
 			background-color: #0e4a8e;
 			color: white;
 			padding: 1em;
 			text-align: center;
 		}
-		
+
 		h1 {
 			margin-top: 0;
 		}
-		
+
 		nav {
 			background-color: #f2f2f2;
 			padding: 1em;
 		}
-		
+
 		nav ul {
 			list-style: none;
 			margin: 0;
 			padding: 0;
 		}
-		
+
 		nav li {
 			display: inline-block;
 			margin-right: 1em;
 		}
-		
+
 		a {
 			color: #0e4a8e;
 			text-decoration: none;
 		}
-		
+
 		a:hover {
 			text-decoration: underline;
 		}
-		
+
 		.container {
 			margin: 0 auto;
 			max-width: 1200px;
 			padding: 2em;
 		}
-		
+
 		section {
 			display: flex;
 			flex-wrap: wrap;
 			justify-content: space-between;
 		}
-		
+
 		article {
 			background-color: #f2f2f2;
 			flex-basis: 30%;
 			margin-bottom: 2em;
 			padding: 1em;
 		}
-		
+
 		article img {
 			max-width: 100%;
 		}
-		
+
 		article h3 {
 			margin-top: 0;
 		}
-		
+
 		footer {
 			background-color: #0e4a8e;
 			color: white;
@@ -102,4 +102,5 @@
 				</article>
 				<article>
 					<h3>What Can You Do?</h3>
-					<img src="https://thumbs.dreamstime.com/z/save-whale-sharks-concept-vector-illustration-eps-139213284.jpg" alt="A person holding a sign that says 'Save the Whale Sharks'
+					<img src="https://thumbs.dreamstime.com/z/save-whale-sharks-concept-vector-illustration-eps-139213284.jpg" alt="A person holding a sign that says 'Save the Whale Sharks'">
+					<p>You can help save the whale sharks by supporting organizations that work to protect them, reducing your use of
